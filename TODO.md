@@ -8,12 +8,13 @@ A to-do list for the DestroymanQuotes repository.
 
 ✅ - Play Destroyman's sound effect when the page loads
 
+✅ - Add a few more quotes (like the removed ones)
+
+✅ - Change/adjust some elements of the page to look better
+
+✅ - Create a file that displays all of the quotes, and instruct users on how to add their own
 
 To-do:
 
-- Add some more functionality to the website
-- Change some elements of the page to look better
-- Add a few more quotes (like the removed ones)
-- Add a way for people to add their own quotes!
 - Add a "Quote of the Day" type system which displays one of the quotes from the quotes function daily
 - Add links/icons back to the GitHub repository
