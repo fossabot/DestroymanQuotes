@@ -1,4 +1,3 @@
-/* Your existing CSS styles */
 body {
   margin: 0;
   display: flex;
@@ -38,13 +37,56 @@ body {
   left: 15px;
   color: white;
   font-size: 24px;
-  background-color: black; /* Set the button background color to black */
-  border: none; /* Remove the border */
-  border-radius: 50%; /* Make the button circular */
-  padding: 15px; /* Adjust the padding for the button */
+  background-color: transparent;
+  border: none;
+  border-radius: 50%;
+  padding: 15px; 
   cursor: pointer;
+  transform: scale(1.2)
 }
 
 .play-button i {
-  pointer-events: none; /* Disable pointer events for the icon inside the button */
+  pointer-events: none;
+}
+
+.play-button:hover {
+  transform: scale(1.1);
+}
+
+.github-icon {
+  position: fixed;
+  bottom: 23px;
+  left: 70px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 24px;
+  transition: transform 0.1s ease-in-out;
+  transform: scale(1.3)
+}
+
+.github-icon:hover {
+  transform: scale(1.2);
+  transition: transform 0.1s ease-in-out;
+}
+
+.add-quotes-box {
+  position: fixed;
+  top: 20px; /* Adjust the position from the bottom as needed */
+  right: 20px; /* Adjust the position from the right as needed */
+  z-index: 1000; /* Ensure it's above other elements */
+  width: 300px; /* Adjust the width as needed */
+  height: 30px; /* Adjust the height as needed */
+  background-color: #074c8c; /* Background color */
+  color: #fff; /* Text color */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Hover effect for the circular box */
+.add-quotes-box:hover {
+  background-color: #021e39; /* Change color on hover */
 }
