@@ -14,7 +14,10 @@ A to-do list for the DestroymanQuotes repository.
 
 ✅ - Create a file that displays all of the quotes, and instruct users on how to add their own
 
+✅ Add links/icons which link back to the GitHub repository
+
+✅ - Link to the quote file somewhere on the page
+
 To-do:
 
-- Add links/icons which link back to the GitHub repository
-- Link to the quote file somewhere on the page  
+    - Create an extensive README
