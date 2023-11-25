@@ -1,19 +1,19 @@
 body {
-margin: 0;
-display: flex;
-justify-content: center;
-align-items: center;
-height: 100vh;
-background-color: black;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
 }
 
 .container {
-text-align: center;
+  text-align: center;
 }
 
 #destroyman-image {
-width: 300px; /* Adjust size as needed */
-height: auto;
+  width: 300px; /* Adjust size as needed */
+  height: auto;
 }
 
 #quote-box {
