@@ -12,4 +12,5 @@
 
     + When clicking on Destroyman, the sound effect he makes will now play.
     + When clicking on Destroyman, the quote will now switch
+    + Minor adjustment(s)
 
