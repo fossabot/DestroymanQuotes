@@ -80,7 +80,15 @@ const quotes = [
   'You don\'t have to do anything anymore. Ever. Never Ever.',
   'You know I\'m really good friends with The Guy right? I bet you\'re jealous.',
   'You wouldn\'t ever eat poison, right? So why would you eat at a restaurant chain?',
-  'You, uh.. you doin\' good? I\'m not asking because I care, I\'m asking because I was coded to.'
+  'You, uh.. you doin\' good? I\'m not asking because I care, I\'m asking because I was coded to.',
+  'You can use two sticks and one fiber to make a fishing rod at a workbench. Fishing\'s more relaxing than whatever it is you\'re doing right now.',
+  'Just a game, right?',
+  'I like to relieve my stress by taking a walk. Try that instead of killing.',
+  'If you were hoping you could uninstall me, I have bad news.',
+  'HINT: Chanting "Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza" at the white tree in Etris unlocks a secret sixth attunement.',
+  'HINT: DIE!!',
+  'Lol',
+  'Ok, back to the dog race.',
 ];
 
 function displayRandomQuote() {
@@ -96,6 +104,16 @@ function playAudio() {
     console.log('Audio played');
   }).catch(error => {
     console.error('Autoplay was prevented:', error);
+  });
+}
+
+// Function to play ToSleep.mp3
+function playToSleep() {
+  const audioSleep = document.getElementById('audioSleep');
+  audioSleep.play().then(() => {
+    console.log('ToSleep.mp3 played');
+  }).catch(error => {
+    console.error('Error playing ToSleep.mp3:', error);
   });
 }
 

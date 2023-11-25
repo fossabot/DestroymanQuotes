@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Destroyman III Quotes</title>
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
   <div class="container">
@@ -12,6 +13,14 @@
     <div class="quote-box" id="quote-box"></div>
   </div>
   <audio id="audio" src="Destroyman_Loading_Sound.mp3"></audio>
+  </div>
+  <!-- Button to play ToSleep.mp3 -->
+  <button class="play-button" onclick="playToSleep()">
+    <i class="fas fa-play"></i>
+  </button>
+
+  <!-- Audio element for ToSleep.mp3 -->
+  <audio id="audioSleep" src="ToSleep.mp3"></audio>
   <script src="script.js"></script>
 </body>
 </html>

@@ -1,3 +1,4 @@
+/* Your existing CSS styles */
 body {
   margin: 0;
   display: flex;
@@ -12,20 +13,38 @@ body {
 }
 
 #destroyman-image {
-  width: 300px; /* Adjust size as needed */
+  width: 300px;
   height: auto;
+  margin-left: 25px;
 }
 
 #quote-box {
   background-color: rgb(43, 42, 42);
   color: white;
-  width: 60%; /* Adjust the width as needed */
-  max-width: 400px; /* Set a maximum width */
+  width: 100%;
+  max-width: 500px;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 25px;
   margin: auto;
   text-align: center;
   overflow: hidden;
-  white-space: normal; /* Allow text to wrap onto new lines */
+  white-space: normal;
   font-family: 'Montserrat', sans-serif;
+}
+
+.play-button {
+  position: fixed;
+  bottom: 10px;
+  left: 15px;
+  color: white;
+  font-size: 24px;
+  background-color: black; /* Set the button background color to black */
+  border: none; /* Remove the border */
+  border-radius: 50%; /* Make the button circular */
+  padding: 15px; /* Adjust the padding for the button */
+  cursor: pointer;
+}
+
+.play-button i {
+  pointer-events: none; /* Disable pointer events for the icon inside the button */
 }
