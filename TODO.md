@@ -16,5 +16,5 @@ A to-do list for the DestroymanQuotes repository.
 
 To-do:
 
-- Add a "Quote of the Day" type system which displays one of the quotes from the quotes function daily
 - Add links/icons which link back to the GitHub repository
+- Link to the quote file somewhere on the page  
