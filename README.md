@@ -53,13 +53,13 @@ Feel free to fork this repository and create a pull request!
 
 - [**Deepwoken Wiki**](https://deepwoken.fandom.com/wiki/Deepwoken_Wiki) for the list of quotes and the audio rips.
 
-## License
+## 📚 License 📚
 
 [**DestroymanQuotes**](https://github.com/inttter/DestroymanQuotes) is licensed under the MIT License.
 
 See [**LICENSE**](LICENSE) for more information.
 
-## Buy me a Coffee!
+## ☕ Buy me a Coffee! ☕
 
 <a href="https://www.buymeacoffee.com/intter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
