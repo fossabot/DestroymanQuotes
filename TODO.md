@@ -18,6 +18,8 @@ A to-do list for the DestroymanQuotes repository.
 
 ✅ - Link to the quote file somewhere on the page
 
-To-do:
+✅ - Create a README
 
-    - Create an extensive README
+✅ - Add some Shield.io buttons
+
+✅ - Add emoji's to README
