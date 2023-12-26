@@ -1,6 +1,7 @@
 <div align='center'>
 
 ![Destroyman](https://cdn.discordapp.com/attachments/892836872118763543/1178152230541606942/Destroyman_III-removebg-preview_1.png?ex=65751ac4&is=6562a5c4&hm=e7d96260b7019d0186bd7094c9593f01ecfac7028d04dda1a13c7a0f15b022e1&)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finttter%2FDestroymanQuotes.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Finttter%2FDestroymanQuotes?ref=badge_shield)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/inttter/DestroymanQuotes/blob/main/LICENSE) 
 [![Last Commit](https://img.shields.io/github/last-commit/inttter/DestroymanQuotes?style=flat-square)](https://github.com/inttter/DestroymanQuotes/commits/main)
@@ -59,10 +60,9 @@ Feel free to fork this repository and create a pull request!
 
 See [**LICENSE**](LICENSE) for more information.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finttter%2FDestroymanQuotes.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Finttter%2FDestroymanQuotes?ref=badge_large)
+
 ## ☕ Buy me a Coffee! ☕
 
 <a href="https://www.buymeacoffee.com/intter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
-
-
